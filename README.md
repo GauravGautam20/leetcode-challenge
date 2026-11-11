@@ -10,8 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GauravGautam20/leetcode-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GauravGautam20/leetcode-challenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GauravGautam20/leetcode-challenge/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GauravGautam20/leetcode-challenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
